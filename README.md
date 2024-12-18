@@ -2,12 +2,12 @@ Example-Microsoft-BCP
 
 Business Continuity Plan for Microsoft to ensure smooth operations during disruptions.
 
-Microsoft Business Continuity Plan (BCP)
+Microsoft Business Continuity Plan
 
-This repository contains a Business Continuity Plan (BCP) for Microsoft, designed to ensure the company's operations can continue smoothly in the event of disruptions such as cyberattacks, natural disasters, or hardware failures.
+This repository contains a Business Continuity Plan for Microsoft, designed to ensure the company's operations can continue smoothly in the event of disruptions such as cyberattacks, natural disasters, or hardware failures.
 
 
-The purpose of this Business Continuity Plan (BCP) is to prepare Microsoft for any unexpected incidents that may affect operations, ensuring that they can quickly recover and continue providing services to customers. The plan covers areas like data backup, incident response, risk management, and communication strategies.
+The purpose of this Business Continuity Plan is to prepare Microsoft for any unexpected incidents that may affect operations, ensuring that they can quickly recover and continue providing services to customers. The plan covers areas like data backup, incident response, risk management, and communication strategies.
 
 Key Areas of the Plan
 
@@ -20,7 +20,7 @@ Key Areas of the Plan
    - Immediate escalation procedures and public communication during major incidents.
 
 4. Access Management  
-   - Multi-Factor Authentication (MFA) to secure employee and customer data.
+   - Multi-Factor Authentication to secure employee and customer data.
    - Strict access controls to limit data exposure and reduce risks.
 
 5. Communication During a Crisis 
