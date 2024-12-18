@@ -1,4 +1,4 @@
-# Example-Microsoft-BCP
+Example-Microsoft-BCP
 
 Business Continuity Plan for Microsoft to ensure smooth operations during disruptions.
 # Microsoft Business Continuity Plan (BCP)
