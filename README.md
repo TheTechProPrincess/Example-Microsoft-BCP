@@ -1,4 +1,4 @@
-Example-Microsoft-BCP
+## Example-Microsoft-BCP
 
 Business Continuity Plan for Microsoft to ensure smooth operations during disruptions.
 # Microsoft Business Continuity Plan (BCP)
@@ -11,15 +11,15 @@ The purpose of this Business Continuity Plan (BCP) is to prepare Microsoft for a
 ## Key Areas of the Plan
 
 1. **Data Backup and Recovery**  
-   - Utilization of **Azure** cloud platform for data backups and disaster recovery.
+   - Utilization of Azure cloud platform for data backups and disaster recovery.
    - Backup sites in multiple locations to ensure redundancy.
 
 2. **Incident Response**  
-   - Real-time monitoring with **Microsoft Defender** to detect and respond to threats.
+   - Real-time monitoring with Microsoft Defender to detect and respond to threats.
    - Immediate escalation procedures and public communication during major incidents.
 
 3. **Access Management**  
-   - **Multi-Factor Authentication (MFA)** to secure employee and customer data.
+   - Multi-Factor Authentication (MFA) to secure employee and customer data.
    - Strict access controls to limit data exposure and reduce risks.
 
 4. **Communication During a Crisis**  
@@ -27,7 +27,7 @@ The purpose of this Business Continuity Plan (BCP) is to prepare Microsoft for a
    - External updates through website and social media to inform customers.
 
 5. **Regulatory Compliance**  
-   - Compliance with major laws such as **GDPR** and **HIPAA** to protect customer data.
+   - Compliance with major laws such as GDPR and HIPAA to protect customer data.
    - Ensuring third-party partners meet the same security standards.
 
 6. **Employee Training**  
