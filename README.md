@@ -5,7 +5,7 @@ Business Continuity Plan for Microsoft to ensure smooth operations during disrup
 
 This repository contains a Business Continuity Plan (BCP) for Microsoft, designed to ensure the company's operations can continue smoothly in the event of disruptions such as cyberattacks, natural disasters, or hardware failures.
 
-## Overview
+
 The purpose of this Business Continuity Plan (BCP) is to prepare Microsoft for any unexpected incidents that may affect operations, ensuring that they can quickly recover and continue providing services to customers. The plan covers areas like data backup, incident response, risk management, and communication strategies.
 
 ## Key Areas of the Plan
